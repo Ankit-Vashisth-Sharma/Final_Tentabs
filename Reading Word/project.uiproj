@@ -1,0 +1,6 @@
+{
+  "Name": "Reading Word",
+  "ProjectType": "Library",
+  "Description": "Reading text from Word",
+  "MainFile": "NewActivity.xaml"
+}
